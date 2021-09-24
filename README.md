@@ -1,9 +1,9 @@
-# Olá eu sou o GerUx👋
+# Olá eu sou o Gerson👋
 
 
 - 💻Hoje trabalho com UI/UX design front-end
 - 📚Estou estudando frameworks JS
-- 📞Redes sociais: Gerson Gerson.Paulo25 Instagram e Discord  @Gerux114
+- 📞Redes sociais: Gerson.Paulo25 Instagram e Discord  @Gerux114
 - 🧍 Pronome: Ele/Dele
 
 😎😍🐱‍👤🎧�🖥😄
