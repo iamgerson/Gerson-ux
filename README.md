@@ -1,9 +1,9 @@
-# Olá eu sou o Gerson👋
+# Olá eu sou o Gerson Paulo 👋
 
 
-- 💻Hoje trabalho com UI/UX design front-end
-- 📚Estou estudando frameworks JS
-- 📞Redes sociais: Gerson.Paulo25 Instagram e Discord  @Gerux114
+- 💻 Front-End developer
+- 📚 I'm studying frameworks like React and I'm studying UI design
+- 📞 Social media: @gerson.paulo16 instagram | Discord  @Gerux114 | Gmail: gersonpaulo114@gmail.com
 - 🧍 Pronome: Ele/Dele
 
 😎😍🐱‍👤🎧�🖥😄
