@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/iamgerson"><img src="https://api.daily.dev/devcards/913067ae522a427794609cb9ae22708a.png?r=nja" width="400" alt="Gerson David Paulo Ndombaxi's Dev Card"/></a>
+
 # Olá eu sou o Gerson Paulo 👋
 
 
